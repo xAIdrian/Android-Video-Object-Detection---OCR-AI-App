@@ -1,0 +1,4 @@
+ipykernel
+jupyter
+pyqt5
+lxml
